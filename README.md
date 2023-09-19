@@ -14,4 +14,6 @@ curl or any other HTTP client.
 
 ## Screenshots
 
-        
+
+
+![sWAGGER_1](https://github.com/krishnasaw8340/Task-2-Swagger-codegen-2023/assets/63328010/1e419102-79df-4ac2-b891-2d1509e06d7f)
